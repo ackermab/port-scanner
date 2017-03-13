@@ -1,6 +1,6 @@
 #To Use:
 * Install scapy-python3 first
-* python3 scanner.py <target> <port>
+* python3 scanner.py \<target\> \<port\>
 
 \<target\> can be of the forms:
 * xxx.xxx.xxx.xxx,
